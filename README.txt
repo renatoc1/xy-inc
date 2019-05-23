@@ -1,4 +1,4 @@
-Foi utilizado o banco de dados MySQL com usuário = root e password = root
+Foi utilizado o banco de dados MySQL. Altere no "application.properties" o usuário e o password, do datasource e do flyway, de acordo com o banco.
 
 Executar a aplicação java "ApiApplication.java"
 
